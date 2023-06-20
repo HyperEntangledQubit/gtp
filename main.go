@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/HyperEntangledQubit/gtp/cmd/gttp"
+	"github.com/HyperEntangledQubit/gttp/cmd/gttp"
 )
 
 func main() {

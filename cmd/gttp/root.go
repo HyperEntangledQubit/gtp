@@ -1,4 +1,4 @@
-package gtp
+package gttp
 
 import (
 	"fmt"
@@ -8,8 +8,8 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "gtp",
-	Short: "gtp - a command-line tool to ping HTTP servers",
+	Use:   "gttp",
+	Short: "gttp - a command-line tool to ping HTTP servers",
 	Long:  "ADD LONGER DESCRIPTION HERE",
 
 	Run: func(cmd *cobra.Command, arg []string) {},
