@@ -17,7 +17,7 @@ var rootCmd = &cobra.Command{
 
 func Execute() {
 	if err := rootCmd.Execute(); err != nil {
-		fmt.Fprintf(os.Stderr, "Failed while running gtp commands '%s'", err)
+		fmt.Fprintf(os.Stderr, "Failed while running gttp commands '%s'", err)
 		os.Exit(1)
 	}
 }
