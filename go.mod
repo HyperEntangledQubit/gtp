@@ -1,4 +1,4 @@
-module github.com/HyperEntangledQubit/gtp
+module github.com/HyperEntangledQubit/gttp
 
 go 1.20
 
