@@ -1,3 +1,3 @@
-# GTP authors
+# GTTP authors
 
 - [Brad](https://github.com/HyperEntangledQubit)
