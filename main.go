@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/HyperEntangledQubit/gtp/cmd/gtp"
+	"github.com/HyperEntangledQubit/gtp/cmd/gttp"
 )
 
 func main() {
-	gtp.Execute()
+	gttp.Execute()
 }
